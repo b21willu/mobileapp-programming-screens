@@ -57,3 +57,9 @@ ProfileActivity:
     }
 }
 ```
+
+![](Screenshot1.png)
+Screenshot ifrån MainActivity sida.
+
+![](Screenshot2.png)
+Screenshot ifrån ProfileActivity sida.
